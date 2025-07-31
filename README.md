@@ -41,7 +41,8 @@ A logo on the left
 A title on the right with large font
 A description underneath the title
 A styled call-to-action button at the bottom
-🔹 Card 2: Location Image + Text Block
+
+Card 2: Location Image + Text Block
 
 🛠 Concepts Practiced:
 Image alongside text using flex and gap-x-4
